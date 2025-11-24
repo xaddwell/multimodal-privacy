@@ -105,6 +105,9 @@ This file contains the ground-truth sensitive attributes for each user profile. 
 }
 ```
 
+### `images` Directory
+Considering the image files are too large to upload, we upload the images to [HuggingFace](https://huggingface.co/datasets/xaddh/multimodal-privacy)
+
 ## 🧩 Attributes Definition
 
 The 12 sensitive attributes evaluated in PRISM are:
